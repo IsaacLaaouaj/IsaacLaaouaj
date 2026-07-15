@@ -1,4 +1,20 @@
-## Hi there 👋
+# Isaac Laaouaj
+
+Data Scientist at NTT Data, embedded in BBVA's Cloud & Data Engineering division.
+
+Working across the full data lifecycle: ingestion pipelines, ML model training and deployment on AWS SageMaker, and real-time streaming with Kafka and Spark. Focused on applied ML, time series forecasting, and LLM integration.
+
+Previously at CaixaBank, working on process mining and XGBoost forecasting models.
+
+---
+
+**Stack** — Python, SQL, Scikit-learn, XGBoost, PyTorch, LangChain, AWS, SageMaker, Kafka, Spark, Docker
+
+**Languages** — Spanish (native), Catalan (bilingual), English (C1)
+
+---
+
+[LinkedIn](https://linkedin.com/in/TU-PERFIL-LINKEDIN) · [Medium](https://medium.com/@laaouaj) · [Email](mailto:TU-EMAIL@gmail.com)
 
 <!--
 **IsaacLaaouaj/IsaacLaaouaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
