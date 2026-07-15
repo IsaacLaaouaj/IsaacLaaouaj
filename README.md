@@ -14,7 +14,7 @@ Previously at CaixaBank, working on process mining and XGBoost forecasting model
 
 ---
 
-[LinkedIn](https://linkedin.com/in/TU-PERFIL-LINKEDIN) · [Medium](https://medium.com/@laaouaj) · [Email](mailto:TU-EMAIL@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/isaac-l-1b0b44254/) · [Medium]([https://medium.com/@laaouaj](https://medium.com/@laaouaj)) · [Email](isaac.laaouaj@gmail.com)
 
 <!--
 **IsaacLaaouaj/IsaacLaaouaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
